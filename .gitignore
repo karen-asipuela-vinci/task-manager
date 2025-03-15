@@ -33,5 +33,3 @@ build/
 .vscode/
 
 .env
-
-backend/src/main/resources/application-secret.properties
